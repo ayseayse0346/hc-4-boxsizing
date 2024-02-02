@@ -1,0 +1,26 @@
+.par1{
+border: 2px solid red;
+}
+.par2{
+border-width: 5px;
+border-style: dotted;
+border-color: blue;
+}
+.par3{
+border: 2px double pink;
+}
+.par4{
+border: 10px dashed yellow;
+}
+.par5{
+border: 5px outset orange;
+width: 350px;
+text-align: center;
+/* bu yazıyı ortalar. */
+margin: auto;
+/* bu kutuyu ortalar. */
+}
+
+#span1{
+
+}
